@@ -1,5 +1,5 @@
 ---
-title: sysの使い方: 「circular import error」の対処法
+title: sysの使い方
 ---
 ### はじめに
 今回はPythonビルドインのモジュールである`sys`と`argparse`について得た知見をまとめていきます。
